@@ -1,0 +1,6 @@
+cream<html>
+<body bgcolor='red'>
+Deepmala
+<center><%= node['hostname'] %></center>
+</body>
+</html>
